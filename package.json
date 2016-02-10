@@ -1,0 +1,17 @@
+{
+  "name": "react-vapor",
+  "version": "0.0.0",
+  "description": "React port of vapor.js",
+  "repository": {
+    "type": "git",
+    "url": "Boldewyn/react-vapor"
+  },
+  "homepage": "https://github.com/Boldewyn/react-vapor",
+  "main": "index.js",
+  "author": "Manuel Strehl",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=0.14.0",
+    "react-dom": ">=0.14.0"
+  }
+}
